@@ -29,3 +29,7 @@ Run the code as
 # Dataset 
 
 [Poker Hand Dataset](https://archive.ics.uci.edu/ml/datasets/Poker+Hand)
+
+# Preprocessing 
+
+One-Hot Encoding
