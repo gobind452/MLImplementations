@@ -5,4 +5,4 @@
 
 # Dataset 
 
-MNIST Dataset(http://yann.lecun.com/exdb/mnist/)
+[MNIST Dataset](http://yann.lecun.com/exdb/mnist/)
