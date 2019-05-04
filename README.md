@@ -1,2 +1,2 @@
 # MLImplementations
-End to End implementations of various Machine Learning Algorithms
+Implementations of various machine learning algorithms, for the course COL774 (Machine Learning) at IIT Delhi.
