@@ -1,6 +1,6 @@
 # Schematics
 
-1.neural_network.py - Implements a fully connected neural network with custom architecture, backpropagation and adaptive learning rate 
+1.neural_network.py - Implements a fully connected classification neural network with custom architecture, backpropagation and adaptive learning rate 
 
 # Dataset 
 
