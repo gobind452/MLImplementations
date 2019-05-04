@@ -1,6 +1,6 @@
 # Schematics
 
-1.neural_network.py - Implements a fully connected classification neural network with custom architecture, vectorized backpropagation and adaptive learning rate 
+neural_network.py - Implements a fully connected classification neural network with custom architecture, vectorized backpropagation and adaptive learning rate 
 
 # Usage 
 
