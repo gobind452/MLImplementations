@@ -232,7 +232,7 @@ network = NeuralNetwork(parameters[0],parameters[4],train_Y.shape[1])
 network.trainNetwork(train_X,train_Y,500,parameters[2],parameters[5],parameters[6])
 print(network.getClassificationError(train_X,train_Y))
 
-testing_data = pd.read_csv('one-hot-poker.test.csv',nrows=10000)
+testing_data = pd.read_csv(sys.argv[3])
 test_examples_count = testing_data.shape[0]
 
 test_Y = pd.Categorical(testing_data['CLASS'])
